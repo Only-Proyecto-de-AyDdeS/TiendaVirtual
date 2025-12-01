@@ -1,6 +1,7 @@
 import smtplib
 from email.mime.text import MIMEText
 
+
 def enviar_notificacion(email, mensaje):
     # cuerpo del correo
     msg = MIMEText(mensaje)
