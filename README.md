@@ -1,4 +1,4 @@
-# ONLY - Sistema de Gestión de E-commerce y Logística 🇨🇴
+# ONLY - Sistema de Gestión de E-commerce y Logística 
 
 Bienvenido al repositorio oficial del equipo de desarrollo para la transformación digital de **Tiendas ONLY**. Este proyecto simula la estructura, gestión y despliegue de código para la plataforma de ventas online y gestión de inventario.
 
