@@ -1,6 +1,6 @@
 # ONLY - Sistema de Gestión de E-commerce y Logística 
 
-Bienvenido al repositorio oficial del equipo de desarrollo para la transformación digital de **Tiendas ONLY**. Este proyecto simula la estructura, gestión y despliegue de código para la plataforma de ventas online y gestión de inventario.
+Bienvenido al repositorio oficial del equipo de desarrollo para la transformación digital de Tiendas ONLY. Este proyecto simula la estructura, gestión y despliegue de código para la plataforma de ventas online y gestión de inventario.
 
 ## Metodología de Trabajo (Agile & GitHub Flow)
 
@@ -16,7 +16,7 @@ Utilizamos un sistema de etiquetado (Labels) basado en tallas de ropa (acorde a 
 * `size: XL` (Extra Large): Módulos enteros que requieren subdivisión.
 
 ### 2. Gestión de Tablero (Projects) 
-Gestionamos el flujo de trabajo en **GitHub Projects** con las siguientes columnas de estado:
+Gestionamos el flujo de trabajo en GitHub Projects con las siguientes columnas de estado:
 * **Backlog:** Historias de usuario pendientes.
 * **In Progress:** Tareas en desarrollo activo (WIP limitado).
 * **In Review:** Pull Requests abiertos esperando revisión de pares.
@@ -34,7 +34,7 @@ Mantenemos la integridad del código mediante ramas independientes para cada fun
 
 ## Roadmap y Planificación Temporal
 
-El proyecto se visualiza a través de un **Roadmap** que prioriza las entregas:
+El proyecto se visualiza a través de un Roadmap que prioriza las entregas:
 1.  **Q1 (Done):** Configuración inicial, estructura de BD y maquetación básica (Tareas de baja complejidad o base).
 2.  **Q2 (In Progress):** Lógica de negocio y conexión de API.
 3.  **Q3 (Backlog):** Funcionalidades avanzadas, reportes y optimización (Tareas de mayor complejidad o futuras).
