@@ -41,7 +41,3 @@ El proyecto se visualiza a través de un **Roadmap** que prioriza las entregas:
 
 ---
 
-## 🛠 Tecnologías (Simulacro)
-* **Frontend:** React.js / Bootstrap
-* **Backend:** Node.js / Express
-* **Base de Datos:** PostgreSQL
