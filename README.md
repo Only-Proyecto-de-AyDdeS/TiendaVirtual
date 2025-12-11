@@ -2,19 +2,6 @@
 
 Bienvenido al repositorio oficial del equipo de desarrollo para la transformación digital de **Tiendas ONLY**. Este proyecto simula la estructura, gestión y despliegue de código para la plataforma de ventas online y gestión de inventario.
 
-## Equipo de Desarrollo
-Este proyecto es mantenido por una organización de **5 desarrolladores**, donde cada miembro tiene responsabilidades específicas sobre los módulos del sistema.
-
-| Miembro | Rol | Módulo Principal |
-| :--- | :--- | :--- |
-| **[Nombre 1]** | Product Owner / Dev | Frontend (Catálogo) |
-| **[Nombre 2]** | Scrum Master / Dev | Backend (API & Auth) |
-| **[Nombre 3]** | Developer | Base de Datos & Inventario |
-| **[Nombre 4]** | Developer | Pasarela de Pagos |
-| **[Nombre 5]** | DevOps | Infraestructura & Despliegue |
-
----
-
 ## Metodología de Trabajo (Agile & GitHub Flow)
 
 Para garantizar una entrega continua y ordenada, hemos implementado una metodología híbrida (Scrum/Kanban) utilizando las herramientas nativas de GitHub.
